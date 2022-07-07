@@ -1,0 +1,15 @@
+{
+  "name": "rmorlok-util",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "print-npm-attributes-for-versions": "node ./scripts/PrintNpmAttributesForVersions.mjs"
+  },
+  "devDependencies": {
+    "easy-table": "^1.2.0",
+    "npm-api": "^1.0.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
